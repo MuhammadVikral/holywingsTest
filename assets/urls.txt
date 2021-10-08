@@ -1,0 +1,10 @@
+// Carousel
+https://api.jsonbin.io/b/6152c7974a82881d6c56d30c
+
+
+// Song chart
+https://api.jsonbin.io/b/6152c7f6aa02be1d445015a4
+
+Background color #1 : #1d1d1d
+Background color #2 : #2c2c2c
+Primary color : #f2c76f
